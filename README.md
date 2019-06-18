@@ -1,5 +1,7 @@
 # eccodes_supply_definitions
 
+> 本项目由个人开发，非官方提供，如有问题，请尽量自行解决
+
 eccodes补充grib定义
 
 ## 1. 缘起
